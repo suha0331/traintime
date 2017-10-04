@@ -1,0 +1,34 @@
+* {
+    outline: none;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("../images/la.jpg");
+    background-repeat: none;
+    font-family: 'Fredoka One', cursive;
+}
+
+p {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 2em;
+}
+
+h1 {
+	font-family: 'Patrick Hand', cursive, !important;
+
+}
+
+#header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    opacity: 0.9;
+ 	color: #F44406;
+
+}
